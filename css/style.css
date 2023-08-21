@@ -31,6 +31,7 @@
     float: left;
     width: 22vw;
     height: 29.2vh;
+    object-fit: cover;
 }
 
 .ima {
